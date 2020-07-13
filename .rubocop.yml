@@ -48,10 +48,6 @@ Style/BlockDelimiters:
   Exclude:
     - spec/**/*_spec.rb
 
-Style/BracesAroundHashParameters:
-  Exclude:
-    - spec/**/*_spec.rb
-
 Style/GuardClause:
   Enabled: false
 
