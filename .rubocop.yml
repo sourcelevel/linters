@@ -74,7 +74,7 @@ Metrics/ClassLength:
 Metrics/ModuleLength:
   Max: 100
 
-Metrics/LineLength:
+Layout/LineLength:
   Enabled: false
 
 Metrics/MethodLength:
