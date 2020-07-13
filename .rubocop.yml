@@ -16,7 +16,7 @@ Layout/ParameterAlignment:
 Layout/CaseIndentation:
   EnforcedStyle: end
 
-Layout/IndentHash:
+Layout/FirstHashElementIndentation:
   Enabled: false
 
 Layout/MultilineMethodCallIndentation:
