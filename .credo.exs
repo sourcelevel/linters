@@ -81,7 +81,7 @@
         #
         {Credo.Check.Design.DuplicatedCode, excluded_macros: []},
         # You can also customize the exit_status of each check.
-        # If you don't want TODO comments to cause `mix credo` to fail, just
+        # If you don't want these comments to cause `mix credo` to fail, just
         # set this value to 0 (zero).
         #
         # Disabled for now as they are also checked by Code Climate
