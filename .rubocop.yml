@@ -36,6 +36,10 @@ Layout/HashAlignment:
 Layout/EndAlignment:
   EnforcedStyleAlignWith: variable
 
+Naming/RescuedExceptionsVariableName:
+  Enabled: true
+  PreferredName: exception
+
 Style/AsciiComments:
   Enabled: false
 
