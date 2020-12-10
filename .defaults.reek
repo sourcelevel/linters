@@ -24,7 +24,7 @@ IrresponsibleModule:
   enabled: false
 NestedIterators:
   max_allowed_nesting: 2
-PrimaDonnaMethod:
+MissingSafeMethod:
   enabled: false
 UnusedParameters:
   enabled: false
